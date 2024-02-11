@@ -1,5 +1,8 @@
-WeLoveMovies Frontend Application
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+<h1>WeLoveMovies Frontend Application<h1>
+
+
+
+**This is the Front End Application for the WeLoveMovies project. Follow the instructions below.**
 
 Installation
 Fork / clone this repository.
