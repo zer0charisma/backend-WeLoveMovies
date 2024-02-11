@@ -1,9 +1,9 @@
-<h1>WeLoveMovies Frontend Application<h1>
+**WeLoveMovies Frontend Application**
 
 
 
-**This is the Front End Application for the WeLoveMovies project. Follow the instructions below.**
-
+This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+<hr>
 Installation
 Fork / clone this repository.
 Run npm install.
