@@ -1,6 +1,17 @@
 **WeLoveMovies Frontend Application**
 
 
+
+This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+<hr>
+Installation<ul>
+<li>Fork / clone this repository.
+<li>Run npm install.
+<li>Use npm start to run the application. 
+<li>If you deploy this application, create a .env.production file similar to the .env.development file.
+
+
+
 This project is designed to test your ability to both build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate you can do the following:
 
 Install and use common middleware packages. Receive requests through routes. Running tests from the command line. Access relevant information through route and query parameters. Create an error handler for the case where a route does not exist. Build an API following RESTful design principles. Create and customize a knexfile.js file. Create a connection to your database with Knex. Write database queries to complete CRUD routes in an Express server. Return joined and nested data with Knex. Write database migrations using Knex's migration tools. Deploy your backend server to a cloud service. It's not necessary to deploy the frontend. You will not need to make any edits to HTML or CSS for this project.
@@ -15,15 +26,4 @@ Database tables You will create five tables for this project. View the docs/tabl
 
 Your app.js file and server.js file are correctly configured, with your app.js file exporting the application created from Express. You make use of the cors package so that requests from the frontend can correctly reach the backend. If a request is made to a route that does not exist, the server returns a 404 error. If a request is made to a route that exists, but the HTTP method is wrong, a 405 error is returned. All of your routes should respond with the appropriate status code and should use a data key in the response. Note: In addition to needing to pass the tests and requirements in the instructions here, please review the Rubric Requirements for the human-graded part of this project in your Thinkful curriculum page.
 
-Ability to both build complex servers and access data through a database.
-Install and use common middleware packages.
-Receive requests through routes.
-Running tests from the command line.
-Access relevant information through route and query parameters.
-Create an error handler for the case where a route does not exist.
-Build an API following RESTful design principles.
-Create and customize a knexfile.js file.
-Create a connection to your database with knex.
-Write database queries to complete CRUD routes in an Express server.
-Return joined and nested data with Knex.
-Write database migrations using Knex's migration tools.
+Ability to both build complex servers and access data through a database. Install and use common middleware packages. Receive requests through routes. Running tests from the command line. Access relevant information through route and query parameters. Create an error handler for the case where a route does not exist. Build an API following RESTful design principles. Create and customize a knexfile.js file. Create a connection to your database with knex. Write database queries to complete CRUD routes in an Express server. Return joined and nested data with Knex. Write database migrations using Knex's migration tools.
